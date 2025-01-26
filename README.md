@@ -15,3 +15,7 @@ The data it uses is located in [Arcade Manager data](https://github.com/cosmo0/a
 [**Retrogaming - meilleurs jeux**](https://github.com/cosmo0/retrogaming-meilleurs-jeux), a bunch of "best of" games list, games history, etc.
 
 [My games reviews (french)](https://www.cosmo0.fr/)
+
+[Arcade revenue](https://docs.google.com/spreadsheets/d/1UAsIKd7DXP2qX_Od5EG89szUoSgax-T5sOR-_YwPbDQ/), data entry for arcade revenue data of the 80's and 90's, extracted from professional trade magazines
+
+[Retro Switch](https://docs.google.com/spreadsheets/d/1O-BL-0LfzPu3ld3iJzJBNOAq1XQEcVhhWPpX9Wx7iWk/), all (?) retro games on the Nintendo Switch
